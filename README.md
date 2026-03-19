@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on my degree in Computer Systems Engineering
+- 🌱 I’m currently learning Cloud Systems Architecture with GCP, Server-Side Logic, .NET Core & .NET Framework
+- 👯 I’m looking to collaborate on IT infrastrcture for small and medium-size businesses
+- 🤔 I’m looking for help with broadening my skills in developing production-ready software
+- 📫 How to reach me: aelr.lara@gmail.com
+
 <!--
 **angel-land/angel-land** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
